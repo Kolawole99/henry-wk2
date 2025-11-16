@@ -5,3 +5,9 @@ dist/
 .DS_Store
 *.tsbuildinfo
 coverage/
+
+# Vector store (generated files)
+data/vector-store/
+
+# Test results
+test-results/

@@ -1,12 +1,98 @@
-HR SAAS PLATFORM - FREQUENTLY ASKED QUESTIONS
+Comprehensive Internal Knowledge Base: HR Platform
 
-=== LEAVE POLICIES AND TIME OFF ===
+The content is structured by module in a question-and-answer format, combining both company policies and platform procedures.
+
+1. Core HR & General Policies
+
+Q: How do I update my personal information?
+A: This process depends on your role.
+
+As an Employee: You can update your own non-sensitive information. From your dashboard, click "My Profile" (often in the top-right corner). Go to the "Personal" tab. Click "Edit" to update your address, phone number, emergency contacts, or banking details. Keeping your information current is important for payroll, benefits, and emergency situations.
+
+As an HR Admin: Navigate to the "People" or "Directory" module. Search for and select the employee. On their profile page, find the "Personal Information" or "Profile" tab. Click "Edit" in the relevant section.
+
+As a Manager: You typically have read-only access to your team's personal info. Please direct your employee to update it themselves.
+
+Note on Legal Name Changes: A legal name change is a sensitive update. This must be submitted to an HR Admin with supporting documentation (e.g., marriage certificate, court order).
+
+Q: Where can I find the company's organizational chart?
+A: You can access the live organizational chart by navigating to the "Directory" or "Company" module. On that page, select the "Org Chart" tab. The chart is interactive. You can click on any employee to see their profile, manager, and direct reports. You can also use the search bar to find a specific person or use the zoom and pan controls to navigate large charts.
+
+Q: How do I securely upload and manage employee documents (e.g., I-9s, offer letters, performance warnings)?
+A: (HR Admin Only) Navigate to the employee's profile and select the "Documents" tab. Here you can create folders (e.g., "Compensation," "Legal," "Performance"). To upload a file, click "Upload Document." You can then:
+
+Name the document.
+
+Assign it to a category/folder.
+
+Set Access Permissions: This is critical. You can set a document to be "Private" (only HR Admins and the employee can see), "Manager Visible," or "Admin Only."
+
+Set an expiration date (e.g., for a certification).
+Uploaded documents are stored securely and are only accessible based on the permissions you define.
+
+Q: An employee changed roles. How do I update their job title, manager, and department?
+A: (HR Admin Only) Go to the employee's profile and find the "Job & Compensation" or "Employment" tab. Click "Edit."
+
+Job Title: Update the "Job Title" field.
+
+Manager: Use the "Reports To" or "Manager" dropdown menu to select the new manager. This will automatically update the org chart and any approval flows (like time off).
+
+Department: Select the new department from the "Department" dropdown.
+
+Effective Date: It is best practice to set an "Effective Date" for this change. This ensures historical reporting remains accurate.
+Once you click "Save," all associated permissions and reporting lines will update as of the effective date.
+
+Q: What is the company's work from home policy?
+A: The company supports flexible work arrangements. Employees may work from home up to 2 days per week with manager approval, depending on role requirements. Some positions may qualify for full-time remote work. To request a work from home arrangement, discuss with your manager and submit a formal request through the HR portal. All remote work arrangements are subject to review and may be adjusted based on business needs. Remote employees are expected to maintain the same working hours and productivity standards as in-office employees.
+
+Q: How do I access the employee handbook?
+A: The complete employee handbook is available in the HR portal under "Company Policies" > "Employee Handbook." The handbook covers all company policies, procedures, code of conduct, and employment terms. You acknowledged receipt of the handbook during onboarding, and you should refer to it for detailed information on any HR-related topic. The handbook is updated annually, and you'll be notified of any significant policy changes.
+
+2. Onboarding & Offboarding
+
+Q: What should I expect during my first week?
+A: Your first week will include orientation sessions covering company culture, policies, benefits, and systems training. You'll meet with HR to complete paperwork, receive your equipment from IT, and have welcome meetings with your team and manager. A buddy will be assigned to help you navigate your first few weeks and answer questions. You'll also receive access to our onboarding portal with checklists, training modules, and resources. Take this time to ask questions and get acclimated to your new role.
+
+Q: I have a new hire. How do I start the onboarding process in the system?
+A: (HR Admin or Hiring Manager) From your dashboard, click the "Onboarding" module. Click the "Start New Hire" or "Onboard Employee" button.
+
+You will be prompted to enter the new hire's basic information (Name, Email, Start Date, Job Title, Manager).
+
+Next, you must select an "Onboarding Template." These templates (e.g., "US Full-Time," "Sales," "Part-Time") contain the pre-built checklists, welcome emails, and required documents for that specific role.
+
+Once you click "Submit," the system will automatically create the new hire's profile and send them a "Welcome Email" with instructions to log in and begin their onboarding tasks.
+
+Q: Can I customize the onboarding tasks for different roles?
+A: (HR Admin Only) Yes. Navigate to "Settings" > "Onboarding" > "Templates." Here you can create or edit as many templates as you need. For each template, you can customize:
+
+Tasks: Assign tasks to the new hire ("Complete W-4"), the manager ("Schedule 30-day check-in"), or HR ("Verify I-9"). You can set due dates for each task.
+
+Documents: Attach specific documents that require a signature (like a handbook or policy) or are for review (like a benefits guide).
+
+Emails: Customize the welcome email and any reminder emails.
+
+Q: What is the correct procedure for offboarding a departing employee?
+A: (HR Admin or Manager) To ensure a smooth and secure exit, you must initiate the offboarding workflow.
+
+Go to the employee's profile, click the "Actions" menu (or "...") and select "Start Offboarding."
+
+You will be prompted to enter the "Termination Date" and "Termination Reason" (e.g., Voluntary, Involuntary).
+
+Select an "Offboarding Template." This will trigger a checklist of tasks, which may include:
+
+Scheduling an exit interview.
+
+Notifying IT to revoke system access on the termination date.
+
+Informing the payroll team to prepare the final paycheck.
+
+Providing COBRA and benefits information.
+Using this workflow ensures all compliance and security steps are followed.
+
+3. Leave Policies and Time Off
 
 Q: What is the company's annual leave policy?
 A: All full-time employees are entitled to 20 days of paid annual leave per calendar year. Part-time employees receive pro-rated leave based on their contracted hours. Annual leave must be requested at least two weeks in advance through the HR portal, and is subject to manager approval. Unused leave can be carried over to the next year, up to a maximum of 5 days. Any leave beyond this limit will be forfeited unless exceptional circumstances apply.
-
-Q: How do I request time off?
-A: To request time off, log into the HR portal and navigate to the "Time Off" section. Click "New Request" and select the type of leave (annual leave, sick leave, personal day, etc.), enter the dates, and provide any necessary comments. Your manager will receive an automatic notification and must approve the request within 3 business days. You will receive an email confirmation once your request is processed. Emergency leave requests can be submitted retroactively with appropriate documentation.
 
 Q: What is the sick leave policy?
 A: Employees are entitled to 10 days of paid sick leave per year. Sick leave does not roll over to the next year. For absences of 3 consecutive days or more, a medical certificate is required. If you need to take sick leave, notify your manager as early as possible, ideally before your scheduled shift begins. You can log sick leave in the HR portal or have your manager enter it on your behalf if you're unable to access the system.
@@ -14,10 +100,71 @@ A: Employees are entitled to 10 days of paid sick leave per year. Sick leave doe
 Q: Can I take unpaid leave?
 A: Yes, unpaid leave may be granted for personal reasons, extended travel, or sabbaticals. Requests for unpaid leave must be submitted at least one month in advance and require approval from both your direct manager and the HR department. During unpaid leave, your benefits may be affected, and you should consult with HR regarding continuation of health insurance and retirement contributions.
 
-=== BENEFITS AND COMPENSATION ===
+Q: How do I request time off in the portal?
+A: To request time off, log into the HR portal and navigate to the "Time Off" or "My Leave" section.
+
+You will see a calendar and your available balances for each leave type (e.g., Vacation, Sick).
+
+Click the "Request Time Off" button.
+
+Select the type of leave (annual leave, sick leave, personal day, etc.).
+
+Enter the dates and provide any necessary comments.
+
+Click "Submit." Your manager will receive an automatic notification and must approve the request within 3 business days. You will receive an email confirmation once your request is processed. Emergency leave requests can be submitted retroactively with appropriate documentation.
+
+Q: As a manager, how do I approve or deny a time-off request?
+A: You will receive a notification via email and on your platform dashboard.
+
+Click the notification or go to the "Team" > "Time Off" module.
+
+You will see a list of pending requests.
+
+Before approving, you can click the "Team Calendar" link to check for any scheduling conflicts with other employees.
+
+Click "Approve" or "Deny" on the request. If you deny it, we highly recommend adding a note to the employee explaining why.
+
+Q: How are PTO/Vacation days accrued in the system?
+A: Accrual rules are set by your HR Admin based on company policy. Go to the "Time Off" module to view your personal balance and accrual rate. Common accrual methods configured in our system include:
+
+Per Pay Period: You earn a small portion of your total annual leave with each paycheck.
+
+Lump Sum: You receive your full allotment of days at the beginning of the year (or on your work anniversary).
+
+Per Hour Worked: (Common for part-time/hourly) You earn leave based on the number of hours you work.
+The system automatically calculates and adds this to your balance based on the policy you are assigned to.
+
+Q: How do I set up a new time-off policy (e.g., Parental Leave)?
+A: (HR Admin Only) Navigate to "Settings" > "Time Off" > "Policies."
+
+Click "Create New Policy."
+
+Name: Give it a clear name (e.g., "Paid Parental Leave").
+
+Accrual: Define how leave is earned. For parental leave, this is often a "Lump Sum" granted upon a qualifying event (birth/adoption).
+
+Amount: Set the total amount of leave (e.g., "12 weeks" or "480 hours").
+
+Eligibility: Set the rules for who is eligible (e.g., "All full-time employees after 1 year of service").
+
+Rules: Define other rules, such as if the leave can be taken intermittently or if it requires documentation.
+
+Assign: Finally, assign this policy to the correct employee groups.
+
+4. Benefits & Compensation
 
 Q: When is payday?
 A: Employees are paid on a bi-weekly schedule, every second Friday. If the pay date falls on a public holiday, payment will be processed on the preceding business day. Your pay stub is available electronically through the HR portal under "Payroll" > "Pay Stubs." If you notice any discrepancies in your payment, contact the payroll team immediately at payroll@company.com.
+
+Q: (Employee) How do I view my pay stubs and year-end tax forms (W-2/1099)?
+A: Go to your "My Profile" page and select the "Pay" or "Compensation" tab.
+
+Pay Stubs: You will see a list of all your past paychecks by pay date. Click "View" or the "PDF" icon on any pay period to see a detailed, itemized pay stub.
+
+Tax Forms: On this same page, there will be a "Tax Forms" or "Year-End" sub-tab. Your official W-2 (for employees) or 1099 (for contractors) will be securely posted here in January of each year.
+
+Q: How do I update my bank information for direct deposit?
+A: Go to "My Profile" > "Pay" > "Direct Deposit." Click "Edit" or "Add Account." You can enter your bank's routing number and account number. Our system allows you to split your paycheck across multiple accounts, either by a flat dollar amount or by a percentage. For security, changing your direct deposit information will send a confirmation email to you and a notification to your HR Admin.
 
 Q: How do I enroll in health insurance benefits?
 A: New employees can enroll in health insurance during their first 30 days of employment. Existing employees can make changes during the annual open enrollment period, typically held in November. To enroll, log into the benefits portal through the HR system, review the available plans, and select the coverage that best suits your needs. You can add dependents by providing their information and required documentation. Changes outside of these periods require a qualifying life event such as marriage, birth, or loss of other coverage.
@@ -28,18 +175,96 @@ A: The company offers a 401(k) retirement savings plan with a company match of u
 Q: Does the company offer professional development benefits?
 A: Yes, we provide an annual professional development budget of $1,500 per employee for courses, certifications, conferences, and training materials. To request professional development funding, submit a request through the "Learning & Development" section of the HR portal, including details about the program and how it relates to your role. Approval is required from your manager and the L&D team. Additionally, we offer an annual subscription to online learning platforms for all employees.
 
-=== PERFORMANCE AND CAREER DEVELOPMENT ===
+Q: (Admin) What are the main steps to run payroll?
+A: Running payroll is a critical process. Follow these steps carefully from the "Payroll" module.
+
+Step 1: Start Cycle: Select the pay period you wish to run and click "Start Payroll."
+
+Step 2: Review Time: The system will import all approved timesheet data. It will flag any unapproved timesheets or exceptions (like missed punches). You must resolve these before proceeding.
+
+Step 3: Enter Manual Changes: This is where you add any one-time payments, such as bonuses, commissions, or expense reimbursements that are not on a timesheet.
+
+Step 4: Preview Payroll: The system will generate a full preview. This is your most important step. You must review the "Payroll Register" report to check for any errors in gross pay, taxes, deductions, or net pay.
+
+Step 5: Approve & Submit: Once you are 100% confident the preview is accurate, click "Approve and Submit." You must submit payroll by your processing deadline (e.g., Tuesday at 5 PM ET) to ensure employees are paid on time.
+
+5. Performance & Career Development
 
 Q: How often are performance reviews conducted?
 A: Formal performance reviews are conducted twice per year - mid-year reviews in June and annual reviews in December. During these reviews, you'll meet with your manager to discuss your performance, accomplishments, areas for improvement, and career goals. The review process includes a self-assessment that you'll complete before the meeting. Performance reviews are used to determine merit-based salary increases, bonuses, and promotion opportunities.
 
-Q: How do I apply for internal job postings?
-A: Internal job openings are posted on the company intranet under "Careers" > "Internal Opportunities." To apply, review the job description and submit your application through the internal application system. You should inform your current manager before applying for internal positions as a professional courtesy. The HR team will screen applications and coordinate interviews with the hiring manager. Employees must have been in their current role for at least 12 months to be eligible for internal transfers unless otherwise approved.
+Q: (Employee) How do I complete my self-assessment for my performance review?
+A: You will receive a "To-Do" item on your dashboard and an email. Click the link to go to your review. You will see a series of questions and goals. Fill out your self-rating and provide comments for each section. When you are finished, click "Submit Self-Assessment." Your manager will be able to see your responses as they complete their assessment of you.
+
+Q: How do I set and track goals (OKRs) in the platform?
+A: Go to the "Performance" > "Goals" module.
+
+Click "Create New Goal."
+
+Write a clear, measurable goal title (e.g., "Achieve 110% of Q3 Sales Quota").
+
+Link Goal: You can "align" or "link" your goal to a higher-level goal (e.g., your manager's goal or a company-wide objective).
+
+Measure: Define how it will be measured (e.g., Percentage, Dollar Amount, Binary).
+
+Set a due date.
+Throughout the quarter, you can update the goal's progress by clicking "Check-In" and moving the progress slider. These goals and your check-ins will automatically be pulled into your performance review.
 
 Q: What is the process for requesting a promotion or raise?
 A: Promotion and salary increase discussions typically occur during annual performance review cycles. If you believe you're ready for a promotion, prepare a case outlining your accomplishments, expanded responsibilities, and how you meet the criteria for the next level. Schedule a meeting with your manager well in advance of the review period to discuss your career aspirations. All promotions require approval from department leadership and HR. Off-cycle raises may be considered for exceptional circumstances or market adjustments.
 
-=== EXPENSE REIMBURSEMENT ===
+Q: (Admin) How do I launch a performance review cycle?
+A: From the "Performance" module, select "Review Cycles" > "Create New Cycle."
+
+Name: Give the cycle a clear name (e.g., "2025 Annual Review").
+
+Dates: Set the Start Date, Employee Self-Review Due Date, and final Manager Review Due Date.
+
+Participants: Select who will be reviewed (e.g., "All Employees," "Sales Department Only").
+
+Review Template: Choose the question template for this review. This is the set of questions, ratings, and goals that managers and employees will fill out.
+
+Settings: Define the review steps (e.g., "Self-Review," "Manager Review," "Calibration," "Share with Employee").
+When you click "Launch," all participants and their managers will be notified to begin the process.
+
+6. Recruiting & Internal Mobility
+
+Q: How do I apply for internal job postings?
+A: Internal job openings are posted on the company intranet or HR Portal under "Careers" > "Internal Opportunities." To apply, review the job description and submit your application through the internal application system. You should inform your current manager before applying for internal positions as a professional courtesy. The HR team will screen applications and coordinate interviews with the hiring manager. Employees must have been in their current role for at least 12 months to be eligible for internal transfers unless otherwise approved.
+
+Q: (Hiring Manager/Recruiter) How do I post a new job opening?
+A: Go to the "Recruiting" or "Jobs" module. Click "Create New Job."
+
+Fill out the internal job information (Hiring Manager, Department, Compensation Range, Recruiter).
+
+Fill out the external-facing job description, qualifications, and location.
+
+Select an "Interview Pipeline" template. This defines the stages your candidates will move through (e.g., "Applied," "Phone Screen," "On-Site," "Offer").
+
+Once you click "Publish," the job will be posted to your company's public careers page. If you have integrated job boards (like LinkedIn or Indeed), it will be posted there as well.
+
+Q: (Hiring Manager/Recruiter) How do I review and manage candidates for a job I'm hiring for?
+A: From the "Recruiting" module, click on the job you want to manage. You will see your candidate "pipeline" with columns for each stage.
+
+Click a candidate's name to view their full profile, resume, and application answers.
+
+To move a candidate, you can drag and drop them from one stage to the next (e.g., from "Applied" to "Phone Screen").
+
+You can also leave comments, @-mention team members for feedback, and schedule interviews all from this view.
+
+Q: (Hiring Manager/Recruiter) How do I send an offer letter?
+A: When you are ready to make an offer, move the candidate to the "Offer" stage in the pipeline.
+
+Click the "Create Offer" button on their profile.
+
+Select an "Offer Letter Template."
+
+Fill in the specific, dynamic fields (e.g., Salary, Start Date, Stock Options).
+
+Preview the offer and click "Send for e-Signature."
+The candidate will receive the offer via email. Once they sign it, you will be notified, and you can then click "Mark as Hired," which automatically moves them into the "Onboarding" module.
+
+7. Expense Reimbursement
 
 Q: How do I submit expense reimbursement requests?
 A: To submit an expense reimbursement, log into the HR portal and navigate to "Expenses" > "New Claim." Upload photos or PDFs of your receipts, categorize each expense (travel, meals, office supplies, etc.), provide business justification, and submit for approval. Expense claims must be submitted within 30 days of the expense being incurred. Your manager will review and approve the claim, and reimbursement will be processed with your next paycheck. For large expenses over $500, pre-approval is required.
@@ -50,7 +275,7 @@ A: Eligible expenses include business travel (flights, hotels, ground transporta
 Q: What is the company's travel policy?
 A: For business travel, book flights and accommodations at reasonable rates that balance cost and convenience. The company has preferred hotel and car rental partners that offer corporate rates - these can be found in the travel section of the HR portal. For domestic flights, economy class is standard. International flights over 6 hours may be booked in premium economy with manager approval. All travel should be booked at least two weeks in advance when possible. Use the corporate travel booking tool or work with our designated travel agency for major trips.
 
-=== IT SUPPORT AND EQUIPMENT ===
+8. IT Support & Equipment
 
 Q: How do I request new equipment or software?
 A: To request new equipment or software, submit a ticket through the IT support portal. For standard requests like monitors, keyboards, or common software licenses, approval from your manager is sufficient. For specialized equipment or expensive software, additional approval from department leadership may be required. IT will review the request, verify budget availability, and process approved requests within 5-10 business days. Emergency equipment replacement can be expedited by marking the request as urgent.
@@ -61,27 +286,18 @@ A: For technical issues, submit a support ticket through the IT help desk portal
 Q: What is the policy for remote work equipment?
 A: Employees approved for remote work will receive a laptop, monitor, keyboard, and mouse for their home office. Additional equipment such as a standing desk or ergonomic chair may be provided based on medical necessity or manager approval. All company equipment must be returned if you leave the company or transition back to full-time office work. You are responsible for the security and proper care of company equipment. Report any loss, theft, or damage to IT and your manager immediately.
 
-=== ONBOARDING AND GENERAL POLICIES ===
-
-Q: What should I expect during my first week?
-A: Your first week will include orientation sessions covering company culture, policies, benefits, and systems training. You'll meet with HR to complete paperwork, receive your equipment from IT, and have welcome meetings with your team and manager. A buddy will be assigned to help you navigate your first few weeks and answer questions. You'll also receive access to our onboarding portal with checklists, training modules, and resources. Take this time to ask questions and get acclimated to your new role.
-
-Q: How do I update my personal information?
-A: To update personal information such as your address, phone number, emergency contacts, or banking details, log into the HR portal and select "My Profile." Make the necessary changes and save. Some changes, such as name changes, require supporting documentation (e.g., marriage certificate, court order) to be uploaded or submitted to HR. Keeping your information current is important for payroll, benefits, and emergency situations.
-
-Q: What is the company's work from home policy?
-A: The company supports flexible work arrangements. Employees may work from home up to 2 days per week with manager approval, depending on role requirements. Some positions may qualify for full-time remote work. To request a work from home arrangement, discuss with your manager and submit a formal request through the HR portal. All remote work arrangements are subject to review and may be adjusted based on business needs. Remote employees are expected to maintain the same working hours and productivity standards as in-office employees.
-
-Q: How do I access the employee handbook?
-A: The complete employee handbook is available in the HR portal under "Company Policies" > "Employee Handbook." The handbook covers all company policies, procedures, code of conduct, and employment terms. You acknowledged receipt of the handbook during onboarding, and you should refer to it for detailed information on any HR-related topic. The handbook is updated annually, and you'll be notified of any significant policy changes.
-
-=== CONTACT INFORMATION ===
+9. Contact Information
 
 For questions not covered in this FAQ, please contact:
-- General HR inquiries: hr@company.com
-- Payroll questions: payroll@company.com
-- Benefits support: benefits@company.com
-- IT support: support@company.com
-- Learning & Development: learning@company.com
+
+General HR inquiries: hr@company.com
+
+Payroll questions: payroll@company.com
+
+Benefits support: benefits@company.com
+
+IT support: support@company.com
+
+Learning & Development: learning@company.com
 
 You can also visit the HR office during business hours (Monday-Friday, 9:00 AM - 5:00 PM) or schedule an appointment through the HR portal.
