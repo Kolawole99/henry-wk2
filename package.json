@@ -1,0 +1,33 @@
+{
+  "name": "customer-support-agent",
+  "version": "1.0.0",
+  "description": "Customer support agent using OpenAI and OpenRouter APIs",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/index.ts",
+    "dev": "tsx --watch src/index.ts",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "openai",
+    "openrouter",
+    "llm",
+    "customer-support",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@hono/node-server": "^1.19.6",
+    "dotenv": "^16.3.1",
+    "hono": "^4.10.4",
+    "openai": "^4.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
