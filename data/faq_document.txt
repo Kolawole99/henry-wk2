@@ -1,0 +1,87 @@
+HR SAAS PLATFORM - FREQUENTLY ASKED QUESTIONS
+
+=== LEAVE POLICIES AND TIME OFF ===
+
+Q: What is the company's annual leave policy?
+A: All full-time employees are entitled to 20 days of paid annual leave per calendar year. Part-time employees receive pro-rated leave based on their contracted hours. Annual leave must be requested at least two weeks in advance through the HR portal, and is subject to manager approval. Unused leave can be carried over to the next year, up to a maximum of 5 days. Any leave beyond this limit will be forfeited unless exceptional circumstances apply.
+
+Q: How do I request time off?
+A: To request time off, log into the HR portal and navigate to the "Time Off" section. Click "New Request" and select the type of leave (annual leave, sick leave, personal day, etc.), enter the dates, and provide any necessary comments. Your manager will receive an automatic notification and must approve the request within 3 business days. You will receive an email confirmation once your request is processed. Emergency leave requests can be submitted retroactively with appropriate documentation.
+
+Q: What is the sick leave policy?
+A: Employees are entitled to 10 days of paid sick leave per year. Sick leave does not roll over to the next year. For absences of 3 consecutive days or more, a medical certificate is required. If you need to take sick leave, notify your manager as early as possible, ideally before your scheduled shift begins. You can log sick leave in the HR portal or have your manager enter it on your behalf if you're unable to access the system.
+
+Q: Can I take unpaid leave?
+A: Yes, unpaid leave may be granted for personal reasons, extended travel, or sabbaticals. Requests for unpaid leave must be submitted at least one month in advance and require approval from both your direct manager and the HR department. During unpaid leave, your benefits may be affected, and you should consult with HR regarding continuation of health insurance and retirement contributions.
+
+=== BENEFITS AND COMPENSATION ===
+
+Q: When is payday?
+A: Employees are paid on a bi-weekly schedule, every second Friday. If the pay date falls on a public holiday, payment will be processed on the preceding business day. Your pay stub is available electronically through the HR portal under "Payroll" > "Pay Stubs." If you notice any discrepancies in your payment, contact the payroll team immediately at payroll@company.com.
+
+Q: How do I enroll in health insurance benefits?
+A: New employees can enroll in health insurance during their first 30 days of employment. Existing employees can make changes during the annual open enrollment period, typically held in November. To enroll, log into the benefits portal through the HR system, review the available plans, and select the coverage that best suits your needs. You can add dependents by providing their information and required documentation. Changes outside of these periods require a qualifying life event such as marriage, birth, or loss of other coverage.
+
+Q: What retirement benefits does the company offer?
+A: The company offers a 401(k) retirement savings plan with a company match of up to 4% of your salary. You can enroll in the 401(k) plan after 90 days of employment. To enroll or adjust your contribution percentage, access the retirement portal through the HR system. You can choose from various investment options, and financial planning resources are available through our retirement plan provider. The company match vests over a 4-year period.
+
+Q: Does the company offer professional development benefits?
+A: Yes, we provide an annual professional development budget of $1,500 per employee for courses, certifications, conferences, and training materials. To request professional development funding, submit a request through the "Learning & Development" section of the HR portal, including details about the program and how it relates to your role. Approval is required from your manager and the L&D team. Additionally, we offer an annual subscription to online learning platforms for all employees.
+
+=== PERFORMANCE AND CAREER DEVELOPMENT ===
+
+Q: How often are performance reviews conducted?
+A: Formal performance reviews are conducted twice per year - mid-year reviews in June and annual reviews in December. During these reviews, you'll meet with your manager to discuss your performance, accomplishments, areas for improvement, and career goals. The review process includes a self-assessment that you'll complete before the meeting. Performance reviews are used to determine merit-based salary increases, bonuses, and promotion opportunities.
+
+Q: How do I apply for internal job postings?
+A: Internal job openings are posted on the company intranet under "Careers" > "Internal Opportunities." To apply, review the job description and submit your application through the internal application system. You should inform your current manager before applying for internal positions as a professional courtesy. The HR team will screen applications and coordinate interviews with the hiring manager. Employees must have been in their current role for at least 12 months to be eligible for internal transfers unless otherwise approved.
+
+Q: What is the process for requesting a promotion or raise?
+A: Promotion and salary increase discussions typically occur during annual performance review cycles. If you believe you're ready for a promotion, prepare a case outlining your accomplishments, expanded responsibilities, and how you meet the criteria for the next level. Schedule a meeting with your manager well in advance of the review period to discuss your career aspirations. All promotions require approval from department leadership and HR. Off-cycle raises may be considered for exceptional circumstances or market adjustments.
+
+=== EXPENSE REIMBURSEMENT ===
+
+Q: How do I submit expense reimbursement requests?
+A: To submit an expense reimbursement, log into the HR portal and navigate to "Expenses" > "New Claim." Upload photos or PDFs of your receipts, categorize each expense (travel, meals, office supplies, etc.), provide business justification, and submit for approval. Expense claims must be submitted within 30 days of the expense being incurred. Your manager will review and approve the claim, and reimbursement will be processed with your next paycheck. For large expenses over $500, pre-approval is required.
+
+Q: What expenses are eligible for reimbursement?
+A: Eligible expenses include business travel (flights, hotels, ground transportation), client meals, office supplies, professional memberships, and other business-related costs approved by your manager. Personal expenses, alcohol (unless part of an approved client dinner), and commuting costs are not reimbursable. When traveling, employees are expected to choose reasonably priced options and follow the company travel policy. Detailed guidelines are available in the employee handbook.
+
+Q: What is the company's travel policy?
+A: For business travel, book flights and accommodations at reasonable rates that balance cost and convenience. The company has preferred hotel and car rental partners that offer corporate rates - these can be found in the travel section of the HR portal. For domestic flights, economy class is standard. International flights over 6 hours may be booked in premium economy with manager approval. All travel should be booked at least two weeks in advance when possible. Use the corporate travel booking tool or work with our designated travel agency for major trips.
+
+=== IT SUPPORT AND EQUIPMENT ===
+
+Q: How do I request new equipment or software?
+A: To request new equipment or software, submit a ticket through the IT support portal. For standard requests like monitors, keyboards, or common software licenses, approval from your manager is sufficient. For specialized equipment or expensive software, additional approval from department leadership may be required. IT will review the request, verify budget availability, and process approved requests within 5-10 business days. Emergency equipment replacement can be expedited by marking the request as urgent.
+
+Q: What should I do if I'm experiencing technical issues?
+A: For technical issues, submit a support ticket through the IT help desk portal or email support@company.com. Include a detailed description of the problem, any error messages, and what you were doing when the issue occurred. For urgent issues affecting your ability to work, call the IT support hotline. Common issues and troubleshooting guides are available in the IT knowledge base. IT aims to respond to all tickets within 4 hours during business hours.
+
+Q: What is the policy for remote work equipment?
+A: Employees approved for remote work will receive a laptop, monitor, keyboard, and mouse for their home office. Additional equipment such as a standing desk or ergonomic chair may be provided based on medical necessity or manager approval. All company equipment must be returned if you leave the company or transition back to full-time office work. You are responsible for the security and proper care of company equipment. Report any loss, theft, or damage to IT and your manager immediately.
+
+=== ONBOARDING AND GENERAL POLICIES ===
+
+Q: What should I expect during my first week?
+A: Your first week will include orientation sessions covering company culture, policies, benefits, and systems training. You'll meet with HR to complete paperwork, receive your equipment from IT, and have welcome meetings with your team and manager. A buddy will be assigned to help you navigate your first few weeks and answer questions. You'll also receive access to our onboarding portal with checklists, training modules, and resources. Take this time to ask questions and get acclimated to your new role.
+
+Q: How do I update my personal information?
+A: To update personal information such as your address, phone number, emergency contacts, or banking details, log into the HR portal and select "My Profile." Make the necessary changes and save. Some changes, such as name changes, require supporting documentation (e.g., marriage certificate, court order) to be uploaded or submitted to HR. Keeping your information current is important for payroll, benefits, and emergency situations.
+
+Q: What is the company's work from home policy?
+A: The company supports flexible work arrangements. Employees may work from home up to 2 days per week with manager approval, depending on role requirements. Some positions may qualify for full-time remote work. To request a work from home arrangement, discuss with your manager and submit a formal request through the HR portal. All remote work arrangements are subject to review and may be adjusted based on business needs. Remote employees are expected to maintain the same working hours and productivity standards as in-office employees.
+
+Q: How do I access the employee handbook?
+A: The complete employee handbook is available in the HR portal under "Company Policies" > "Employee Handbook." The handbook covers all company policies, procedures, code of conduct, and employment terms. You acknowledged receipt of the handbook during onboarding, and you should refer to it for detailed information on any HR-related topic. The handbook is updated annually, and you'll be notified of any significant policy changes.
+
+=== CONTACT INFORMATION ===
+
+For questions not covered in this FAQ, please contact:
+- General HR inquiries: hr@company.com
+- Payroll questions: payroll@company.com
+- Benefits support: benefits@company.com
+- IT support: support@company.com
+- Learning & Development: learning@company.com
+
+You can also visit the HR office during business hours (Monday-Friday, 9:00 AM - 5:00 PM) or schedule an appointment through the HR portal.
