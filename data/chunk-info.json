@@ -1,0 +1,414 @@
+{
+  "totalChunks": 81,
+  "chunkSize": 500,
+  "chunkOverlap": 100,
+  "embeddingModel": "text-embedding-3-small",
+  "documentPath": "./data/faq_document.txt",
+  "chunks": [
+    {
+      "index": 0,
+      "preview": "Comprehensive Internal Knowledge Base: HR Platform\n\nThe content is structured by module in a questio...",
+      "length": 291
+    },
+    {
+      "index": 1,
+      "preview": "Q: How do I update my personal information?\nA: This process depends on your role.\n\nAs an Employee: Y...",
+      "length": 434
+    },
+    {
+      "index": 2,
+      "preview": "As an HR Admin: Navigate to the \"People\" or \"Directory\" module. Search for and select the employee. ...",
+      "length": 344
+    },
+    {
+      "index": 3,
+      "preview": "Note on Legal Name Changes: A legal name change is a sensitive update. This must be submitted to an ...",
+      "length": 181
+    },
+    {
+      "index": 4,
+      "preview": "Q: Where can I find the company's organizational chart?\nA: You can access the live organizational ch...",
+      "length": 423
+    },
+    {
+      "index": 5,
+      "preview": "Q: How do I securely upload and manage employee documents (e.g., I-9s, offer letters, performance wa...",
+      "length": 380
+    },
+    {
+      "index": 6,
+      "preview": "Name the document.\n\nAssign it to a category/folder.\n\nSet Access Permissions: This is critical. You c...",
+      "length": 365
+    },
+    {
+      "index": 7,
+      "preview": "Q: An employee changed roles. How do I update their job title, manager, and department?\nA: (HR Admin...",
+      "length": 487
+    },
+    {
+      "index": 8,
+      "preview": "Department: Select the new department from the \"Department\" dropdown.\n\nEffective Date: It is best pr...",
+      "length": 310
+    },
+    {
+      "index": 9,
+      "preview": "Q: What is the company's work from home policy?...",
+      "length": 47
+    },
+    {
+      "index": 10,
+      "preview": "A: The company supports flexible work arrangements. Employees may work from home up to 2 days per we...",
+      "length": 424
+    },
+    {
+      "index": 11,
+      "preview": ". All remote work arrangements are subject to review and may be adjusted based on business needs. Re...",
+      "length": 213
+    },
+    {
+      "index": 12,
+      "preview": "Q: How do I access the employee handbook?\nA: The complete employee handbook is available in the HR p...",
+      "length": 475
+    },
+    {
+      "index": 13,
+      "preview": "2. Onboarding & Offboarding...",
+      "length": 27
+    },
+    {
+      "index": 14,
+      "preview": "Q: What should I expect during my first week?...",
+      "length": 45
+    },
+    {
+      "index": 15,
+      "preview": "A: Your first week will include orientation sessions covering company culture, policies, benefits, a...",
+      "length": 439
+    },
+    {
+      "index": 16,
+      "preview": ". Take this time to ask questions and get acclimated to your new role....",
+      "length": 70
+    },
+    {
+      "index": 17,
+      "preview": "Q: I have a new hire. How do I start the onboarding process in the system?\nA: (HR Admin or Hiring Ma...",
+      "length": 326
+    },
+    {
+      "index": 18,
+      "preview": "Next, you must select an \"Onboarding Template.\" These templates (e.g., \"US Full-Time,\" \"Sales,\" \"Par...",
+      "length": 385
+    },
+    {
+      "index": 19,
+      "preview": "Q: Can I customize the onboarding tasks for different roles?\nA: (HR Admin Only) Yes. Navigate to \"Se...",
+      "length": 390
+    },
+    {
+      "index": 20,
+      "preview": "Documents: Attach specific documents that require a signature (like a handbook or policy) or are for...",
+      "length": 470
+    },
+    {
+      "index": 21,
+      "preview": "Go to the employee's profile, click the \"Actions\" menu (or \"...\") and select \"Start Offboarding.\"\n\nY...",
+      "length": 455
+    },
+    {
+      "index": 22,
+      "preview": "Informing the payroll team to prepare the final paycheck.\n\nProviding COBRA and benefits information....",
+      "length": 208
+    },
+    {
+      "index": 23,
+      "preview": "Q: What is the company's annual leave policy?\nA: All full-time employees are entitled to 20 days of ...",
+      "length": 497
+    },
+    {
+      "index": 24,
+      "preview": "Q: What is the sick leave policy?\nA: Employees are entitled to 10 days of paid sick leave per year. ...",
+      "length": 468
+    },
+    {
+      "index": 25,
+      "preview": "Q: Can I take unpaid leave?\nA: Yes, unpaid leave may be granted for personal reasons, extended trave...",
+      "length": 422
+    },
+    {
+      "index": 26,
+      "preview": "Q: How do I request time off in the portal?\nA: To request time off, log into the HR portal and navig...",
+      "length": 406
+    },
+    {
+      "index": 27,
+      "preview": "Enter the dates and provide any necessary comments.\n\nClick \"Submit.\" Your manager will receive an au...",
+      "length": 472
+    },
+    {
+      "index": 28,
+      "preview": "Click the notification or go to the \"Team\" > \"Time Off\" module.\n\nYou will see a list of pending requ...",
+      "length": 348
+    },
+    {
+      "index": 29,
+      "preview": "Q: How are PTO/Vacation days accrued in the system?\nA: Accrual rules are set by your HR Admin based ...",
+      "length": 451
+    },
+    {
+      "index": 30,
+      "preview": "Per Hour Worked: (Common for part-time/hourly) You earn leave based on the number of hours you work....",
+      "length": 429
+    },
+    {
+      "index": 31,
+      "preview": "Click \"Create New Policy.\"\n\nName: Give it a clear name (e.g., \"Paid Parental Leave\").\n\nAccrual: Defi...",
+      "length": 401
+    },
+    {
+      "index": 32,
+      "preview": "Rules: Define other rules, such as if the leave can be taken intermittently or if it requires docume...",
+      "length": 205
+    },
+    {
+      "index": 33,
+      "preview": "Assign: Finally, assign this policy to the correct employee groups.\n\n4. Benefits & Compensation\n\nQ: ...",
+      "length": 488
+    },
+    {
+      "index": 34,
+      "preview": "Q: (Employee) How do I view my pay stubs and year-end tax forms (W-2/1099)?\nA: Go to your \"My Profil...",
+      "length": 310
+    },
+    {
+      "index": 35,
+      "preview": "Tax Forms: On this same page, there will be a \"Tax Forms\" or \"Year-End\" sub-tab. Your official W-2 (...",
+      "length": 194
+    },
+    {
+      "index": 36,
+      "preview": "Q: How do I update my bank information for direct deposit?\nA: Go to \"My Profile\" > \"Pay\" > \"Direct D...",
+      "length": 452
+    },
+    {
+      "index": 37,
+      "preview": "Q: How do I enroll in health insurance benefits?...",
+      "length": 48
+    },
+    {
+      "index": 38,
+      "preview": "A: New employees can enroll in health insurance during their first 30 days of employment. Existing e...",
+      "length": 419
+    },
+    {
+      "index": 39,
+      "preview": ". You can add dependents by providing their information and required documentation. Changes outside ...",
+      "length": 200
+    },
+    {
+      "index": 40,
+      "preview": "Q: What retirement benefits does the company offer?...",
+      "length": 51
+    },
+    {
+      "index": 41,
+      "preview": "Q: What retirement benefits does the company offer?\nA: The company offers a 401(k) retirement saving...",
+      "length": 499
+    },
+    {
+      "index": 42,
+      "preview": "Q: Does the company offer professional development benefits?...",
+      "length": 60
+    },
+    {
+      "index": 43,
+      "preview": "A: Yes, we provide an annual professional development budget of $1,500 per employee for courses, cer...",
+      "length": 494
+    },
+    {
+      "index": 44,
+      "preview": "Q: (Admin) What are the main steps to run payroll?\nA: Running payroll is a critical process. Follow ...",
+      "length": 427
+    },
+    {
+      "index": 45,
+      "preview": "Step 3: Enter Manual Changes: This is where you add any one-time payments, such as bonuses, commissi...",
+      "length": 375
+    },
+    {
+      "index": 46,
+      "preview": "Step 5: Approve & Submit: Once you are 100% confident the preview is accurate, click \"Approve and Su...",
+      "length": 260
+    },
+    {
+      "index": 47,
+      "preview": "Q: How often are performance reviews conducted?...",
+      "length": 47
+    },
+    {
+      "index": 48,
+      "preview": "A: Formal performance reviews are conducted twice per year - mid-year reviews in June and annual rev...",
+      "length": 453
+    },
+    {
+      "index": 49,
+      "preview": "Q: (Employee) How do I complete my self-assessment for my performance review?\nA: You will receive a ...",
+      "length": 437
+    },
+    {
+      "index": 50,
+      "preview": "Q: How do I set and track goals (OKRs) in the platform?\nA: Go to the \"Performance\" > \"Goals\" module....",
+      "length": 418
+    },
+    {
+      "index": 51,
+      "preview": "Measure: Define how it will be measured (e.g., Percentage, Dollar Amount, Binary).\n\nSet a due date.\n...",
+      "length": 303
+    },
+    {
+      "index": 52,
+      "preview": "Q: What is the process for requesting a promotion or raise?...",
+      "length": 59
+    },
+    {
+      "index": 53,
+      "preview": "A: Promotion and salary increase discussions typically occur during annual performance review cycles...",
+      "length": 446
+    },
+    {
+      "index": 54,
+      "preview": ". All promotions require approval from department leadership and HR. Off-cycle raises may be conside...",
+      "length": 156
+    },
+    {
+      "index": 55,
+      "preview": "Q: (Admin) How do I launch a performance review cycle?\nA: From the \"Performance\" module, select \"Rev...",
+      "length": 385
+    },
+    {
+      "index": 56,
+      "preview": "Participants: Select who will be reviewed (e.g., \"All Employees,\" \"Sales Department Only\").\n\nReview ...",
+      "length": 496
+    },
+    {
+      "index": 57,
+      "preview": "Q: How do I apply for internal job postings?...",
+      "length": 44
+    },
+    {
+      "index": 58,
+      "preview": "A: Internal job openings are posted on the company intranet or HR Portal under \"Careers\" > \"Internal...",
+      "length": 415
+    },
+    {
+      "index": 59,
+      "preview": ". The HR team will screen applications and coordinate interviews with the hiring manager. Employees ...",
+      "length": 224
+    },
+    {
+      "index": 60,
+      "preview": "Q: (Hiring Manager/Recruiter) How do I post a new job opening?\nA: Go to the \"Recruiting\" or \"Jobs\" m...",
+      "length": 462
+    },
+    {
+      "index": 61,
+      "preview": "Once you click \"Publish,\" the job will be posted to your company's public careers page. If you have ...",
+      "length": 414
+    },
+    {
+      "index": 62,
+      "preview": "Click a candidate's name to view their full profile, resume, and application answers.\n\nTo move a can...",
+      "length": 473
+    },
+    {
+      "index": 63,
+      "preview": "Click the \"Create Offer\" button on their profile.\n\nSelect an \"Offer Letter Template.\"\n\nFill in the s...",
+      "length": 435
+    },
+    {
+      "index": 64,
+      "preview": "Q: How do I submit expense reimbursement requests?...",
+      "length": 50
+    },
+    {
+      "index": 65,
+      "preview": "A: To submit an expense reimbursement, log into the HR portal and navigate to \"Expenses\" > \"New Clai...",
+      "length": 451
+    },
+    {
+      "index": 66,
+      "preview": ". For large expenses over $500, pre-approval is required....",
+      "length": 57
+    },
+    {
+      "index": 67,
+      "preview": "Q: What expenses are eligible for reimbursement?...",
+      "length": 48
+    },
+    {
+      "index": 68,
+      "preview": "A: Eligible expenses include business travel (flights, hotels, ground transportation), client meals,...",
+      "length": 488
+    },
+    {
+      "index": 69,
+      "preview": "Q: What is the company's travel policy?...",
+      "length": 39
+    },
+    {
+      "index": 70,
+      "preview": "A: For business travel, book flights and accommodations at reasonable rates that balance cost and co...",
+      "length": 466
+    },
+    {
+      "index": 71,
+      "preview": ". All travel should be booked at least two weeks in advance when possible. Use the corporate travel ...",
+      "length": 171
+    },
+    {
+      "index": 72,
+      "preview": "8. IT Support & Equipment...",
+      "length": 25
+    },
+    {
+      "index": 73,
+      "preview": "Q: How do I request new equipment or software?...",
+      "length": 46
+    },
+    {
+      "index": 74,
+      "preview": "A: To request new equipment or software, submit a ticket through the IT support portal. For standard...",
+      "length": 431
+    },
+    {
+      "index": 75,
+      "preview": ". Emergency equipment replacement can be expedited by marking the request as urgent....",
+      "length": 84
+    },
+    {
+      "index": 76,
+      "preview": "Q: What should I do if I'm experiencing technical issues?...",
+      "length": 57
+    },
+    {
+      "index": 77,
+      "preview": "A: For technical issues, submit a support ticket through the IT help desk portal or email support@co...",
+      "length": 458
+    },
+    {
+      "index": 78,
+      "preview": "Q: What is the policy for remote work equipment?...",
+      "length": 48
+    },
+    {
+      "index": 79,
+      "preview": "A: Employees approved for remote work will receive a laptop, monitor, keyboard, and mouse for their ...",
+      "length": 494
+    },
+    {
+      "index": 80,
+      "preview": "9. Contact Information\n\nFor questions not covered in this FAQ, please contact:\n\nGeneral HR inquiries...",
+      "length": 416
+    }
+  ]
+}

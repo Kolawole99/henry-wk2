@@ -6,10 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "start": "tsx src/index.ts",
-    "dev": "tsx --watch src/index.ts",
-    "build:index": "tsx src/build-index.ts",
-    "query": "tsx src/query.ts",
+    "build:index": "tsx src/build-index/index.ts",
     "test": "vitest",
     "clean": "rm -rf dist"
   },
@@ -23,12 +20,13 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@hono/node-server": "^1.19.6",
+    "@langchain/classic": "^1.0.3",
     "@langchain/community": "^1.0.3",
+    "@langchain/core": "^1.0.5",
     "@langchain/openai": "^1.1.1",
+    "@langchain/textsplitters": "^1.0.0",
     "dotenv": "^16.3.1",
     "hnswlib-node": "^3.0.0",
-    "hono": "^4.10.4",
     "langchain": "^1.0.4",
     "openai": "^4.24.1"
   },
