@@ -57,36 +57,3 @@ export async function evaluateResponse(
     },
   };
 }
-
-/**
- * CLI Main
- */
-async function main() {
-  const exampleResponse: QueryResponse = {
-    user_question: 'What is the company sick leave policy?',
-    system_answer:
-      'Employees are entitled to 10 days of paid sick leave per year. Sick leave does not roll over to the next year. For absences of 3 consecutive days or more, a medical certificate is required.',
-    chunks_related: [
-      {
-        content:
-          'Q: What is the sick leave policy?\nA: Employees are entitled to 10 days of paid sick leave per year. Sick leave does not roll over to the next year. For absences of 3 consecutive days or more, a medical certificate is required.',
-        metadata: { chunkIndex: 5 },
-      },
-    ],
-  };
-
-  const env = loadAndValidateEnv();
-
-  const evaluation = await evaluateResponse(exampleResponse, env);
-
-  console.log('\n📋 Evaluation Result:', evaluation.score + '/10');
-  console.log('\n📊 Breakdown:');
-  console.log(`  - Chunk Relevance: ${evaluation.breakdown.chunk_relevance}/10`);
-  console.log(`  - Answer Accuracy: ${evaluation.breakdown.answer_accuracy}/10`);
-  console.log(`  - Completeness: ${evaluation.breakdown.completeness}/10`);
-  console.log('\nJSON:\n', JSON.stringify(evaluation, null, 2));
-}
-
-if (import.meta.url === `file://${process.argv[1]}`) {
-  main();
-}
