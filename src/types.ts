@@ -2,18 +2,6 @@
  * Type definitions for the RAG-based FAQ Support Chatbot
  */
 
-/**
- * Represents a text chunk with its content and metadata
- */
-export interface ChunkData {
-  content: string;
-  metadata: {
-    chunkIndex: number;
-    source: string;
-    startLine?: number;
-    endLine?: number;
-  };
-}
 
 /**
  * Represents a retrieved chunk with similarity score
@@ -44,35 +32,6 @@ export interface EvaluationResult {
     answer_accuracy: number; // 0-10
     completeness: number; // 0-10
   };
-}
-
-/**
- * Configuration for text chunking
- */
-export interface ChunkingConfig {
-  chunkSize: number;
-  chunkOverlap: number;
-}
-
-/**
- * Configuration for vector search
- */
-export interface SearchConfig {
-  k: number; // number of chunks to retrieve
-  searchType?: 'similarity' | 'mmr'; // Maximum Marginal Relevance
-}
-
-/**
- * Application configuration
- */
-export interface AppConfig {
-  openaiApiKey: string;
-  embeddingModel: string;
-  llmModel: string;
-  chunking: ChunkingConfig;
-  search: SearchConfig;
-  vectorStorePath: string;
-  documentPath: string;
 }
 
 export interface EmbeddingClientArgs {
