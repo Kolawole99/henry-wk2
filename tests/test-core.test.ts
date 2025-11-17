@@ -151,8 +151,8 @@ describe('FAQ Chatbot - Core Functionality', () => {
       expect(typeof mockResponse.system_answer).toBe('string');
       expect(Array.isArray(mockResponse.chunks_related)).toBe(true);
       expect(mockResponse.chunks_related.length).toBeGreaterThan(0);
-      expect(mockResponse.chunks_related[0].content).toBeDefined();
-      expect(mockResponse.chunks_related[0].metadata).toBeDefined();
+      expect(mockResponse.chunks_related[0]!.content).toBeDefined();
+      expect(mockResponse.chunks_related[0]!.metadata).toBeDefined();
     });
 
     it('should have all required fields in chunks_related', () => {

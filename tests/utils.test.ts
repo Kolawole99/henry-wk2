@@ -6,7 +6,6 @@
 
 import { describe, it, expect, vi } from 'vitest';
 import { GetEmbeddingsClient, GetOpenApiClient } from '../src/utils/openai.js';
-import { LoadPromptTemplate } from '../src/utils/file.js';
 import * as fs from 'fs';
 import * as path from 'path';
 
