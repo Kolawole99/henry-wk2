@@ -1,0 +1,47 @@
+[
+  {
+    "user_question": "How do I apply for leave?",
+    "system_answer": "Please refer to the company's HR portal and navigate to the \"Time Off\" or \"My Leave\" section. From there, you can select the type of leave you wish to apply for, enter the dates, and provide any necessary comments. Remember to submit your request at least one month in advance and obtain approval from both your direct manager and the HR department.",
+    "chunks_related": [
+      {
+        "content": "Q: Can I take unpaid leave?\nA: Yes, unpaid leave may be granted for personal reasons, extended travel, or sabbaticals. Requests for unpaid leave must be submitted at least one month in advance and require approval from both your direct manager and the HR department. During unpaid leave, your benefits may be affected, and you should consult with HR regarding continuation of health insurance and retirement contributions.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 100,
+              "to": 101
+            }
+          },
+          "chunkIndex": 25
+        }
+      },
+      {
+        "content": "Enter the dates and provide any necessary comments.\n\nClick \"Submit.\" Your manager will receive an automatic notification and must approve the request within 3 business days. You will receive an email confirmation once your request is processed. Emergency leave requests can be submitted retroactively with appropriate documentation.\n\nQ: As a manager, how do I approve or deny a time-off request?\nA: You will receive a notification via email and on your platform dashboard.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 112,
+              "to": 117
+            }
+          },
+          "chunkIndex": 27
+        }
+      },
+      {
+        "content": "Q: How do I request time off in the portal?\nA: To request time off, log into the HR portal and navigate to the \"Time Off\" or \"My Leave\" section.\n\nYou will see a calendar and your available balances for each leave type (e.g., Vacation, Sick).\n\nClick the \"Request Time Off\" button.\n\nSelect the type of leave (annual leave, sick leave, personal day, etc.).\n\nEnter the dates and provide any necessary comments.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 103,
+              "to": 112
+            }
+          },
+          "chunkIndex": 26
+        }
+      }
+    ]
+  }
+]
