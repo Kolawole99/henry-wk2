@@ -8,10 +8,10 @@
 import { TextLoader } from "@langchain/classic/document_loaders/fs/text"
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import { HNSWLib } from '@langchain/community/vectorstores/hnswlib';
-import { OpenAIEmbeddings } from '@langchain/openai';
 import * as path from 'path';
 import * as fs from 'fs';
 import { validateEnvironmentVariables } from "./env.js";
+import { GetEmbeddingsClient } from "../utils/openai.js";
 
 /**
  * Main function to build the vector index
@@ -57,28 +57,11 @@ async function buildIndex() {
       },
     }));
 
-    let embeddings;
-    if (OPENROUTER_API_KEY) {
-      console.log('Using OpenRouter API for embeddings');
-      embeddings = new OpenAIEmbeddings({
-        apiKey: OPENROUTER_API_KEY,
-        modelName: EMBEDDING_MODEL,
-        configuration: {
-          baseURL: 'https://openrouter.ai/api/v1',
-          defaultHeaders: {
-            'X-Title': 'Your App Name',
-            'HTTP-Referer': 'https://github.com/your-repo',
-          },
-        },
-      });
-    } else {
-      console.log('Using OpenAI API for embeddings');
-      embeddings = new OpenAIEmbeddings({
-        apiKey: OPENAI_API_KEY,
-        modelName: EMBEDDING_MODEL,
-      });
-    }
-
+    const embeddings = GetEmbeddingsClient({
+      modelName: EMBEDDING_MODEL,
+      openaiApiKey: OPENAI_API_KEY,
+      openRouterApiKey: OPENROUTER_API_KEY,
+    });
     console.log('Creating HNSW vector store...');
 
     const vectorStore = await HNSWLib.fromDocuments(

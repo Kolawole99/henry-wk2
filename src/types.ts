@@ -74,3 +74,9 @@ export interface AppConfig {
   vectorStorePath: string;
   documentPath: string;
 }
+
+export interface EmbeddingClientArgs {
+  openaiApiKey: string;
+  modelName: string;
+  openRouterApiKey?: string;
+}

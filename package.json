@@ -7,6 +7,7 @@
   "scripts": {
     "build": "tsc",
     "build:index": "tsx src/build-index/index.ts",
+    "query": "tsx src/query/index.ts",
     "test": "vitest",
     "clean": "rm -rf dist"
   },
