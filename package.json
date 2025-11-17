@@ -9,7 +9,7 @@
     "run:embed": "tsx src/build-index/index.ts",
     "run:query": "tsx src/query/index.ts",
     "run:sample": "tsx src/sample-questions.ts",
-    "test": "vitest",
+    "test": "vitest run",
     "clean": "rm -rf dist"
   },
   "keywords": [
