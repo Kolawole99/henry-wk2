@@ -1,23 +1,24 @@
-import { ChatOpenAI } from '@langchain/openai';
 import { ChatPromptTemplate } from '@langchain/core/prompts';
 import { StringOutputParser } from '@langchain/core/output_parsers';
 import { RunnableSequence, RunnablePassthrough } from '@langchain/core/runnables';
+import * as fs from 'fs';
+import * as path from 'path';
+import { fileURLToPath } from 'url';
 import { loadAndValidateEnv } from './env.js';
 import type { QueryResponse } from '../types.js';
 import { loadVectorStore } from './vector.js';
 import { GetOpenApiClient } from '../utils/openai.js';
 
-// Prompt Template
-const QA_PROMPT_TEMPLATE = `You are a helpful HR assistant for a SaaS company. Use the following context from the company's FAQ documentation to answer the user's question clearly and concisely.
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-If the context contains the answer, provide a clear helpful response. If not, say so politely.
-
-Context:
-{context}
-
-Question: {question}
-
-Answer:`;
+/**
+ * Load prompt template from file
+ */
+function loadPromptTemplate(): string {
+  const promptPath = path.join(__dirname, '../prompts/query-qa.md');
+  return fs.readFileSync(promptPath, 'utf-8');
+}
 
 /**
  * Query RAG system using modern LangChain LCEL (LangChain Expression Language)
@@ -35,7 +36,8 @@ export async function query(question: string, env: ReturnType<typeof loadAndVali
     temperature: 0.3,
   });
 
-  const prompt = ChatPromptTemplate.fromTemplate(QA_PROMPT_TEMPLATE);
+  const promptTemplate = loadPromptTemplate();
+  const prompt = ChatPromptTemplate.fromTemplate(promptTemplate);
   const retrievedDocs = await retriever.invoke(question);
 
   const ragChain = RunnableSequence.from([
