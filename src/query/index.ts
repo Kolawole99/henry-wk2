@@ -1,24 +1,11 @@
 import { ChatPromptTemplate } from '@langchain/core/prompts';
 import { StringOutputParser } from '@langchain/core/output_parsers';
 import { RunnableSequence, RunnablePassthrough } from '@langchain/core/runnables';
-import * as fs from 'fs';
-import * as path from 'path';
-import { fileURLToPath } from 'url';
 import { loadAndValidateEnv } from './env.js';
 import type { QueryResponse } from '../types.js';
 import { loadVectorStore } from './vector.js';
 import { GetOpenApiClient } from '../utils/openai.js';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-/**
- * Load prompt template from file
- */
-function loadPromptTemplate(): string {
-  const promptPath = path.join(__dirname, '../prompts/query-qa.md');
-  return fs.readFileSync(promptPath, 'utf-8');
-}
+import { LoadPromptTemplate } from '../utils/file.js';
 
 /**
  * Query RAG system using modern LangChain LCEL (LangChain Expression Language)
@@ -36,7 +23,7 @@ export async function query(question: string, env: ReturnType<typeof loadAndVali
     temperature: 0.3,
   });
 
-  const promptTemplate = loadPromptTemplate();
+  const promptTemplate = LoadPromptTemplate('../prompts/query-qa.md');
   const prompt = ChatPromptTemplate.fromTemplate(promptTemplate);
   const retrievedDocs = await retriever.invoke(question);
 
