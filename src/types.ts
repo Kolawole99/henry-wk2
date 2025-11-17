@@ -22,6 +22,14 @@ export interface QueryResponse {
 }
 
 /**
+ * Logged query output with evaluation
+ */
+export interface LoggedQueryOutput extends QueryResponse {
+  evaluation?: EvaluationResult;
+  timestamp: string;
+}
+
+/**
  * Evaluation result from the evaluator agent
  */
 export interface EvaluationResult {
