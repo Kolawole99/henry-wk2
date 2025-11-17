@@ -98,5 +98,445 @@
         "completeness": 9
       }
     }
+  },
+  {
+    "user_question": "How do I apply for leave?",
+    "system_answer": "Please log into the HR portal and navigate to the \"Time Off\" or \"My Leave\" section. From there, click the \"Request Time Off\" button, select the type of leave, enter the dates, and provide any necessary comments. Your manager will receive a notification and must approve the request within 3 business days.",
+    "chunks_related": [
+      {
+        "content": "Q: Can I take unpaid leave?\nA: Yes, unpaid leave may be granted for personal reasons, extended travel, or sabbaticals. Requests for unpaid leave must be submitted at least one month in advance and require approval from both your direct manager and the HR department. During unpaid leave, your benefits may be affected, and you should consult with HR regarding continuation of health insurance and retirement contributions.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 100,
+              "to": 101
+            }
+          },
+          "chunkIndex": 25
+        }
+      },
+      {
+        "content": "Enter the dates and provide any necessary comments.\n\nClick \"Submit.\" Your manager will receive an automatic notification and must approve the request within 3 business days. You will receive an email confirmation once your request is processed. Emergency leave requests can be submitted retroactively with appropriate documentation.\n\nQ: As a manager, how do I approve or deny a time-off request?\nA: You will receive a notification via email and on your platform dashboard.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 112,
+              "to": 117
+            }
+          },
+          "chunkIndex": 27
+        }
+      },
+      {
+        "content": "Q: How do I request time off in the portal?\nA: To request time off, log into the HR portal and navigate to the \"Time Off\" or \"My Leave\" section.\n\nYou will see a calendar and your available balances for each leave type (e.g., Vacation, Sick).\n\nClick the \"Request Time Off\" button.\n\nSelect the type of leave (annual leave, sick leave, personal day, etc.).\n\nEnter the dates and provide any necessary comments.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 103,
+              "to": 112
+            }
+          },
+          "chunkIndex": 26
+        }
+      }
+    ],
+    "timestamp": "2025-11-17T05:24:13.434Z",
+    "evaluation": {
+      "score": 8,
+      "reason": "The retrieved chunks provide relevant information about requesting time off, although some are more general. The answer accurately reflects the steps needed to apply for leave and includes additional details. The completeness is good, but could include more specific examples or scenarios.",
+      "breakdown": {
+        "chunk_relevance": 7,
+        "answer_accuracy": 9,
+        "completeness": 8
+      }
+    }
+  },
+  {
+    "user_question": "How do I apply for leave?",
+    "system_answer": "Please log into the HR portal and navigate to the \"Time Off\" or \"My Leave\" section. From there, click the \"Request Time Off\" button, select the type of leave, enter the dates, and provide any necessary comments. Your manager will receive a notification and must approve the request within 3 business days.",
+    "chunks_related": [
+      {
+        "content": "Q: Can I take unpaid leave?\nA: Yes, unpaid leave may be granted for personal reasons, extended travel, or sabbaticals. Requests for unpaid leave must be submitted at least one month in advance and require approval from both your direct manager and the HR department. During unpaid leave, your benefits may be affected, and you should consult with HR regarding continuation of health insurance and retirement contributions.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 100,
+              "to": 101
+            }
+          },
+          "chunkIndex": 25
+        }
+      },
+      {
+        "content": "Enter the dates and provide any necessary comments.\n\nClick \"Submit.\" Your manager will receive an automatic notification and must approve the request within 3 business days. You will receive an email confirmation once your request is processed. Emergency leave requests can be submitted retroactively with appropriate documentation.\n\nQ: As a manager, how do I approve or deny a time-off request?\nA: You will receive a notification via email and on your platform dashboard.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 112,
+              "to": 117
+            }
+          },
+          "chunkIndex": 27
+        }
+      },
+      {
+        "content": "Q: How do I request time off in the portal?\nA: To request time off, log into the HR portal and navigate to the \"Time Off\" or \"My Leave\" section.\n\nYou will see a calendar and your available balances for each leave type (e.g., Vacation, Sick).\n\nClick the \"Request Time Off\" button.\n\nSelect the type of leave (annual leave, sick leave, personal day, etc.).\n\nEnter the dates and provide any necessary comments.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 103,
+              "to": 112
+            }
+          },
+          "chunkIndex": 26
+        }
+      }
+    ],
+    "timestamp": "2025-11-17T05:30:11.399Z",
+    "evaluation": {
+      "score": 8,
+      "reason": "The retrieved chunks provide relevant information about requesting time off, although some are more general. The answer accurately reflects the information in the chunks and provides a clear step-by-step guide. The completeness is good, but could include more details on specific types of leave or potential issues that may arise.",
+      "breakdown": {
+        "chunk_relevance": 7,
+        "answer_accuracy": 9,
+        "completeness": 8
+      }
+    }
+  },
+  {
+    "user_question": "What is the company's sick leave policy?",
+    "system_answer": "Employees are entitled to 10 days of paid sick leave per year. Sick leave does not roll over to the next year. For absences of 3 consecutive days or more, a medical certificate is required. If you need to take sick leave, notify your manager as early as possible, ideally before your scheduled shift begins. You can log sick leave in the HR portal or have your manager enter it on your behalf if you're unable to access the system.",
+    "chunks_related": [
+      {
+        "content": "Q: What is the sick leave policy?\nA: Employees are entitled to 10 days of paid sick leave per year. Sick leave does not roll over to the next year. For absences of 3 consecutive days or more, a medical certificate is required. If you need to take sick leave, notify your manager as early as possible, ideally before your scheduled shift begins. You can log sick leave in the HR portal or have your manager enter it on your behalf if you're unable to access the system.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 97,
+              "to": 98
+            }
+          },
+          "chunkIndex": 24
+        }
+      },
+      {
+        "content": "Q: What is the company's travel policy?",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 438,
+              "to": 438
+            }
+          },
+          "chunkIndex": 69
+        }
+      },
+      {
+        "content": "Q: What is the company's annual leave policy?\nA: All full-time employees are entitled to 20 days of paid annual leave per calendar year. Part-time employees receive pro-rated leave based on their contracted hours. Annual leave must be requested at least two weeks in advance through the HR portal, and is subject to manager approval. Unused leave can be carried over to the next year, up to a maximum of 5 days. Any leave beyond this limit will be forfeited unless exceptional circumstances apply.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 94,
+              "to": 95
+            }
+          },
+          "chunkIndex": 23
+        }
+      }
+    ],
+    "timestamp": "2025-11-17T05:30:25.256Z",
+    "evaluation": {
+      "score": 10,
+      "reason": "All retrieved chunks are highly relevant to the question, providing detailed information about the sick leave policy. The answer accurately reflects the information in the chunks without any errors. It fully addresses the question by outlining the sick leave entitlement, requirements, and procedures.",
+      "breakdown": {
+        "chunk_relevance": 10,
+        "answer_accuracy": 10,
+        "completeness": 10
+      }
+    }
+  },
+  {
+    "user_question": "How do I submit an expense reimbursement request?",
+    "system_answer": "To submit an expense reimbursement, log into the HR portal and navigate to \"Expenses\" > \"New Claim.\" Upload photos or PDFs of your receipts, categorize each expense (travel, meals, office supplies, etc.), provide business justification, and submit for approval. Expense claims must be submitted within 30 days of the expense being incurred. Your manager will review and approve the claim, and reimbursement will be processed with your next paycheck.",
+    "chunks_related": [
+      {
+        "content": "Q: How do I submit expense reimbursement requests?",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 432,
+              "to": 432
+            }
+          },
+          "chunkIndex": 64
+        }
+      },
+      {
+        "content": "A: To submit an expense reimbursement, log into the HR portal and navigate to \"Expenses\" > \"New Claim.\" Upload photos or PDFs of your receipts, categorize each expense (travel, meals, office supplies, etc.), provide business justification, and submit for approval. Expense claims must be submitted within 30 days of the expense being incurred. Your manager will review and approve the claim, and reimbursement will be processed with your next paycheck",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 433,
+              "to": 433
+            }
+          },
+          "chunkIndex": 65
+        }
+      },
+      {
+        "content": "Q: What expenses are eligible for reimbursement?",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 435,
+              "to": 435
+            }
+          },
+          "chunkIndex": 67
+        }
+      }
+    ],
+    "timestamp": "2025-11-17T05:30:29.225Z",
+    "evaluation": {
+      "score": 9.7,
+      "reason": "The retrieved chunks are highly relevant and contain all the necessary information to answer the question accurately. The answer provided is completely accurate, factually correct, and fully supported by the chunks. It addresses the main question comprehensively but could include a bit more detail to enhance completeness.",
+      "breakdown": {
+        "chunk_relevance": 10,
+        "answer_accuracy": 10,
+        "completeness": 9
+      }
+    }
+  },
+  {
+    "user_question": "What professional development benefits does the company offer?",
+    "system_answer": "Yes, we provide an annual professional development budget of $1,500 per employee for courses, certifications, conferences, and training materials. To request professional development funding, submit a request through the \"Learning & Development\" section of the HR portal, including details about the program and how it relates to your role. Approval is required from your manager and the L&D team. Additionally, we offer an annual subscription to online learning platforms for all employees.",
+    "chunks_related": [
+      {
+        "content": "Q: Does the company offer professional development benefits?",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 338,
+              "to": 338
+            }
+          },
+          "chunkIndex": 42
+        }
+      },
+      {
+        "content": "A: Yes, we provide an annual professional development budget of $1,500 per employee for courses, certifications, conferences, and training materials. To request professional development funding, submit a request through the \"Learning & Development\" section of the HR portal, including details about the program and how it relates to your role. Approval is required from your manager and the L&D team. Additionally, we offer an annual subscription to online learning platforms for all employees.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 339,
+              "to": 339
+            }
+          },
+          "chunkIndex": 43
+        }
+      },
+      {
+        "content": "Q: What retirement benefits does the company offer?",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 172,
+              "to": 172
+            }
+          },
+          "chunkIndex": 40
+        }
+      }
+    ],
+    "timestamp": "2025-11-17T05:30:34.174Z",
+    "evaluation": {
+      "score": 9.7,
+      "reason": "The retrieved chunks are highly relevant and contain all the necessary information to answer the question accurately. The answer provided is completely accurate and supported by the chunks, detailing the professional development benefits offered by the company. The answer is almost fully comprehensive, addressing the main question with helpful details, but could include a bit more information to enhance completeness.",
+      "breakdown": {
+        "chunk_relevance": 10,
+        "answer_accuracy": 10,
+        "completeness": 9
+      }
+    }
+  },
+  {
+    "user_question": "How do I apply for leave?",
+    "system_answer": "Please refer to the company's HR portal and navigate to the \"Time Off\" or \"My Leave\" section. Click the \"Request Time Off\" button, select the type of leave, enter the dates, and provide any necessary comments. Your manager will receive a notification and must approve the request within 3 business days.",
+    "chunks_related": [
+      {
+        "content": "Q: Can I take unpaid leave?\nA: Yes, unpaid leave may be granted for personal reasons, extended travel, or sabbaticals. Requests for unpaid leave must be submitted at least one month in advance and require approval from both your direct manager and the HR department. During unpaid leave, your benefits may be affected, and you should consult with HR regarding continuation of health insurance and retirement contributions.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 100,
+              "to": 101
+            }
+          },
+          "chunkIndex": 25
+        }
+      },
+      {
+        "content": "Enter the dates and provide any necessary comments.\n\nClick \"Submit.\" Your manager will receive an automatic notification and must approve the request within 3 business days. You will receive an email confirmation once your request is processed. Emergency leave requests can be submitted retroactively with appropriate documentation.\n\nQ: As a manager, how do I approve or deny a time-off request?\nA: You will receive a notification via email and on your platform dashboard.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 112,
+              "to": 117
+            }
+          },
+          "chunkIndex": 27
+        }
+      },
+      {
+        "content": "Q: How do I request time off in the portal?\nA: To request time off, log into the HR portal and navigate to the \"Time Off\" or \"My Leave\" section.\n\nYou will see a calendar and your available balances for each leave type (e.g., Vacation, Sick).\n\nClick the \"Request Time Off\" button.\n\nSelect the type of leave (annual leave, sick leave, personal day, etc.).\n\nEnter the dates and provide any necessary comments.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 103,
+              "to": 112
+            }
+          },
+          "chunkIndex": 26
+        }
+      }
+    ],
+    "timestamp": "2025-11-17T05:30:38.743Z",
+    "evaluation": {
+      "score": 7.7,
+      "reason": "The retrieved chunks contain relevant information about requesting time off, including details on unpaid leave and manager approval. The answer accurately reflects the information in the chunks and provides a clear step-by-step guide on how to apply for leave. The completeness is good, covering the main steps involved in the process.",
+      "breakdown": {
+        "chunk_relevance": 7,
+        "answer_accuracy": 8,
+        "completeness": 8
+      }
+    }
+  },
+  {
+    "user_question": "What is the process for performance reviews?",
+    "system_answer": "Refer to the company's FAQ documentation for detailed instructions on how to launch a performance review cycle.",
+    "chunks_related": [
+      {
+        "content": "Q: How often are performance reviews conducted?",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 356,
+              "to": 356
+            }
+          },
+          "chunkIndex": 47
+        }
+      },
+      {
+        "content": "A: Formal performance reviews are conducted twice per year - mid-year reviews in June and annual reviews in December. During these reviews, you'll meet with your manager to discuss your performance, accomplishments, areas for improvement, and career goals. The review process includes a self-assessment that you'll complete before the meeting. Performance reviews are used to determine merit-based salary increases, bonuses, and promotion opportunities.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 357,
+              "to": 357
+            }
+          },
+          "chunkIndex": 48
+        }
+      },
+      {
+        "content": "Q: (Admin) How do I launch a performance review cycle?\nA: From the \"Performance\" module, select \"Review Cycles\" > \"Create New Cycle.\"\n\nName: Give the cycle a clear name (e.g., \"2025 Annual Review\").\n\nDates: Set the Start Date, Employee Self-Review Due Date, and final Manager Review Due Date.\n\nParticipants: Select who will be reviewed (e.g., \"All Employees,\" \"Sales Department Only\").",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 379,
+              "to": 386
+            }
+          },
+          "chunkIndex": 55
+        }
+      }
+    ],
+    "timestamp": "2025-11-17T05:30:42.600Z",
+    "evaluation": {
+      "score": 8,
+      "reason": "The retrieved chunks provide relevant information about the process for performance reviews, including frequency, content, and steps to launch a review cycle. The answer accurately reflects the information in the chunks, but could provide more detail on the actual steps involved in launching a review cycle. The completeness is good, addressing the main aspects of the question, but could be more comprehensive.",
+      "breakdown": {
+        "chunk_relevance": 9,
+        "answer_accuracy": 8,
+        "completeness": 7
+      }
+    }
+  },
+  {
+    "user_question": "How can I update my personal information in the HR system?",
+    "system_answer": "As an Employee: You can update your own non-sensitive information by clicking \"My Profile\" on your dashboard and going to the \"Personal\" tab. From there, click \"Edit\" to update your details. If you have sensitive information to update, please contact HR for assistance.",
+    "chunks_related": [
+      {
+        "content": "Q: How do I update my personal information?\nA: This process depends on your role.\n\nAs an Employee: You can update your own non-sensitive information. From your dashboard, click \"My Profile\" (often in the top-right corner). Go to the \"Personal\" tab. Click \"Edit\" to update your address, phone number, emergency contacts, or banking details. Keeping your information current is important for payroll, benefits, and emergency situations.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 7,
+              "to": 10
+            }
+          },
+          "chunkIndex": 1
+        }
+      },
+      {
+        "content": "As an HR Admin: Navigate to the \"People\" or \"Directory\" module. Search for and select the employee. On their profile page, find the \"Personal Information\" or \"Profile\" tab. Click \"Edit\" in the relevant section.\n\nAs a Manager: You typically have read-only access to your team's personal info. Please direct your employee to update it themselves.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 12,
+              "to": 14
+            }
+          },
+          "chunkIndex": 2
+        }
+      },
+      {
+        "content": "Comprehensive Internal Knowledge Base: HR Platform\n\nThe content is structured by module in a question-and-answer format, combining both company policies and platform procedures.\n\n1. Core HR & General Policies\n\nQ: How do I update my personal information?\nA: This process depends on your role.",
+        "metadata": {
+          "source": "./data/faq_document.txt",
+          "loc": {
+            "lines": {
+              "from": 1,
+              "to": 8
+            }
+          },
+          "chunkIndex": 0
+        }
+      }
+    ],
+    "timestamp": "2025-11-17T05:30:46.793Z",
+    "evaluation": {
+      "score": 8.7,
+      "reason": "The retrieved chunks provide relevant information on updating personal information for different roles within the HR system. The answer accurately reflects the information in the chunks and provides clear instructions. However, the completeness could be improved by including more details on updating sensitive information and addressing potential issues that may arise during the process.",
+      "breakdown": {
+        "chunk_relevance": 9,
+        "answer_accuracy": 9,
+        "completeness": 8
+      }
+    }
   }
 ]

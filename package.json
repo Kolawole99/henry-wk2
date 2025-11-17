@@ -6,9 +6,9 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "build:index": "tsx src/build-index/index.ts",
-    "query": "tsx src/query/index.ts",
-    "evaluator": "tsx src/evaluator.ts",
+    "run:embed": "tsx src/build-index/index.ts",
+    "run:query": "tsx src/query/index.ts",
+    "run:sample": "tsx src/sample-questions.ts",
     "test": "vitest",
     "clean": "rm -rf dist"
   },
